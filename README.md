@@ -1,7 +1,7 @@
 # Nested Scale-Editing for Conditional Image Synthesis
 This is a Pytorch implementation of our paper "Nested Scale-Editing for Conditional Image Synthesis". 
 
-[Deep Image Blending](https://arxiv.org/pdf/2006.02038.pdf) <br />
+[Nested Scale-Editing for Conditional Image Synthesis](https://arxiv.org/pdf/2006.02038.pdf) <br />
 [Lingzhi Zhang*](https://owenzlz.github.io/), Jiancong Wang*, Yinshuang Xu, Jie Min, Tarmily Wen, James C. Gee, [Jianbo Shi](https://www.cis.upenn.edu/~jshi/) (* equal contribution) <br />
 University of Pennsylvania
 
