@@ -11,7 +11,7 @@ In Computer Vision and Pattern Recognition (CVPR), 2020
 
 We proposed an image synthesis approach that provides stratified navigation in the latent code space. We achieve this through scale-independent editing while expanding scale-specific diveristy. Scale-independent is achieved with a nested scale disentanglement loss. Scale-specific diversity is created by incorporating a progressive diversification constraint.
 
-<img src='demo_imgs/demo.JPG' align="middle" width=540>
+<img src='demo_imgs/demo.JPG' align="middle" width=800>
     
 ## Usage
 
