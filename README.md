@@ -15,7 +15,7 @@ We proposed an image synthesis approach that provides stratified navigation in t
     
 ## Usage
 
-[Code and instruction will be updated very soon.]
+[Code and instruction will be updated soon.]
 
 ## Citation
 If you use this code for your research, please cite our [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Nested_Scale-Editing_for_Conditional_Image_Synthesis_CVPR_2020_paper.pdf):
